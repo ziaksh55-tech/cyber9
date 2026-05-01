@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cyber9</title>
+<meta charset="UTF-8">
+<style>
+body {
+    background: #000;
+    color: #0fff72;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 50px;
+}
+button{
+    background: #0fff72;
+    padding: 10px 20px;
+    border: none;
+    font-size: 18px;
+}
+</style>
+</head>
+
+<body>
+<h1>Welcome to Cyber9</h1>
+<p>The future messenger is loading...</p>
+<button>Coming Soon...</button>
+</body>
+</html>
